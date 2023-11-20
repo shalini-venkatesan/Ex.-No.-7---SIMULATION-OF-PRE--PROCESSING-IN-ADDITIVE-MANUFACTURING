@@ -41,8 +41,8 @@
 ## Output:
 
 ```
- Name: G.Chethan kumar
- Register Number: 212222240022
+ Name: SHALINI V
+ Register Number: 212222240096
 ```
 ![image](https://github.com/Gchethankumar/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/118348224/894c8c56-af18-402b-9c80-9e423ca7f25c)
 ![image](https://github.com/Gchethankumar/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/118348224/75ff7012-328e-4e21-9f2c-f4f578e8d916)
