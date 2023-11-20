@@ -38,51 +38,15 @@
 ### ●	Select the options of process of pre-processing in the sequence in which they are shown.
 ### ●	If the user follows an incorrect sequence then a pop-up will appear on the screen showing the name of the process to be selected.
 
+## OUTPUT:
+![123_1](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ec8dafd7-cb7c-4a5b-936c-41e86a32a9da)
+![123_2](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/c071a941-e5b4-4b31-af63-5f9fe08cd0fb)
+![123_3](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ebb3a944-eeb0-45e8-9841-d58997840c54)
+
 ## Output:
 
-### Name: SHALINI VENKATESAN
-
-### Register Number: 212222240096
-
-### 1. CAD File
-![ex7 1](https://github.com/AsinVardhini/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/119417735/1a0df2e7-4041-406a-a214-e8475960acce)
-
-During the pre-processing stage for 3D printing, the CAD file serves as the input for further preparation and optimization
-before sending it to the 3D printer.The CAD file contains the complete design intent, including the geometry, features, 
-and other details necessary for the 3D printing process.
-
-### 2. Conversion to STL
-![ex7 2](https://github.com/AsinVardhini/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/119417735/c7a23a8f-d6d4-4000-9bcc-5f03e00549d1)
-
-In the simulation of pre-processing for 3D printing, "Conversion to STL" refers to the process of exporting or saving the 3D model in the 
-STL (Standard Tessellation Language) file format. STL is one of the most common file formats used in 3D printing due to its simplicity 
-and compatibility with a wide range of 3D printers.
-
-### a. Orientation:
-![ex7 3](https://github.com/AsinVardhini/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/119417735/562a61cf-040e-42e6-8358-d4ddceaf6596)
-
- "Orientation" refers to the adjustment of the 3D model's position or alignment in order to optimize 
- its printability and achieve the desired printing outcome.
- 
-### b. Support Structure:
-![ex7 4](https://github.com/AsinVardhini/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/119417735/1e4d77ff-a0da-44d4-8fed-85d348950df2)
-
-"Support Structure" refers to the generation of additional structures that provide support to overhanging or delicate
-parts of the 3D model during the printing process.
-
-### c. Slicing:
-![ex7 5](https://github.com/AsinVardhini/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/119417735/909753df-58ce-4931-afb6-c4ef7a25b58c)
-
-"Slicing" refers to the process of converting a 3D model into a series of 2D layers that the 3D printer can understand and print.
-Slicing involves dividing the model into thin horizontal layers and generating the necessary instructions for the printer
-to recreate each layer.
-
-### d. Path Planning:
-![ex7 6](https://github.com/AsinVardhini/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/119417735/1ad7d639-b9fb-4330-a5c7-7094a79f7039)
-
-"Path Planning" refers to the process of determining the optimal toolpath or movement trajectory for the 
-3D printer's nozzle or extruder during the printing process. Path planning involves calculating the most
-efficient and precise pathsto follow for printing each layer of the 3D model.
+### Name:
+### Register Number:
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
